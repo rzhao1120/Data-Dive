@@ -8,3 +8,7 @@ The launch and rise of TikTok throughout these past few years have been eminent,
 - Our regression models will focus on predicting the financial benefits or drawbacks of running campaigns with ambassadors
 - Analyze how brands performed before their ambassadors campaigns and how the perform after
 - Account for variables that may effect the economic trends at the time
+
+## Data Sources
+L'Oreal World Wide Sales
+https://www.statista.com/statistics/243986/consolidated-sales-of-loreal-worldwide/
